@@ -3,7 +3,7 @@
 This site hosts materials for my Data Science for Development Economics course at the Universite Clermont Auvergne. Contact me at <pbiscaye@berkeley.edu> for more information.
 
 **Key documents**
-- [Syllabus](https://github.com/pbiscaye/IntroDataScienceEcon/blob/main/Syllabus_Biscaye_DataScience.pdf).
+- [Syllabus](https://github.com/pbiscaye/IntroDataScienceEcon/blob/main/Syllabus_Biscaye_DataScience.pdf)
 - [Course setup guide](https://github.com/pbiscaye/IntroDataScienceEcon/blob/main/Data_Science_Class_Setup_Guide.pdf)
 - [Index of potential resources](https://github.com/pbiscaye/Teaching/blob/main/Data%20science%20resources%20index.pdf)
 
