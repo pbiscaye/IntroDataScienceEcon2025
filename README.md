@@ -12,7 +12,7 @@ This site hosts materials for my Data Science for Development Economics course a
 2. Research reproducibility and Python basics
 3. Data wrangling and visualization
 4. Generative AI and big data in economics research
-5. Geospatial data in economics and basics of geospatial analysis in Python
+5. Introduction to spatial data and basics of geospatial analysis in Python
 6. Remote sensing in economics and working with spatial data in Python
 7. Introduction to machine learning with Python, part 1
 8. Introduction to machine learning with Python, part 2
