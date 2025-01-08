@@ -1,6 +1,6 @@
 # Introduction to Data Science for Economists
 
-This site hosts materials for my Data Science for Development Economics course at the Universite Clermont Auvergne. Contact me at <pbiscaye@berkeley.edu> for more information.
+This site hosts materials for my Data Science for Development Economics course at the Université Clermont Auvergne. Contact me at <pierre.biscaye@uca.fr> for more information.
 
 **Key documents**
 - [Syllabus](https://github.com/pbiscaye/IntroDataScienceEcon/blob/main/Syllabus_Biscaye_DataScience.pdf)
